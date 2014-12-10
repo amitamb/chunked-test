@@ -1,0 +1,23 @@
+{
+  "name": "chunked-test",
+  "version": "1.0.0",
+  "description": "Testing MutationObserver functionality of chrome for chunked html",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitamb/chunked-test.git"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "author": "Amit Ambardekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitamb/chunked-test/issues"
+  },
+  "homepage": "https://github.com/amitamb/chunked-test"
+}
